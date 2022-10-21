@@ -1,0 +1,513 @@
+Question,Intent
+តើតេអិន/prt សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើតេអិន/prt ជា/verb អ្វី/noun ?/punct
+តើតេអិន/prt ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើតេអិន/prt គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើតេអិន/prt សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt តេអិន/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt តេអិន/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt តេអិន/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើតេអិន/prt គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt តេអិន/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើតេអិន/prt ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt តេអិន/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt តេអិន/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើតេអិន/prt ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើតេអិនហ្នឹង/prt សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើតេអិន/prt ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើតេអិន/prt ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើតេអិន/prt ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើតេអិនហ្នឹង/prt គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើតេអិន/prt ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt TN/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt TN/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt TN/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt TN/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt TN/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt TN/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt TN/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt TN/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt TN/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt TNរៀន/noun ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt TN/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt TNហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt TNហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt TNហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt TNហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt TNហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt TNហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt TNហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt TNហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt TN/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt Telecomsand/noun Networking/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt Telecomsand/noun Networking/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt Telecomsand/noun Networking/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt Telecomsand/noun Networking/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt Telecomsand/noun Networking/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt Telecomsand/noun Networking/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt Telecomsand/noun Networking/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt Telecomsand/noun Networking/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt Telecomsand/noun Networking/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt Telecomsand/noun Networking/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt Telecomsand/noun Networking/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt Telecomsand/noun Networking/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt Telecomsand/noun Networking/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt Telecomsand/noun Networking/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt Telecomsand/noun Networking/noun ហ្នឹង/adj សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt Telecomsand/noun Networking/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt Telecomsand/noun Networking/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt Telecomsand/noun Networking/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt Telecomsand/noun Networking/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt Telecomsand/noun Networking/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថាតេអិន/conj សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថាតេអិន/conj ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថាតេអិន/conj ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថាតេអិន/conj គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិន/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិនរៀន/noun ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិនរៀន/noun ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិនរៀន/noun ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិន/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិនរៀន/noun ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TNរៀន/noun ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TNហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecomsand/noun Networking/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/adj សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិនរៀន/noun ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិនរៀន/noun ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិនរៀន/noun ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិនរៀន/noun ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិនហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិនហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិនហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិនហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិនហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិនហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិនហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិនហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិនហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិនហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/adj សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថាតេអិនសិក្សា/conj អ្វី/noun ខ្លះ/adj
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថាតេអិន/conj ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថាតេអិន/conj ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិនរៀន/noun ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិនរៀន/noun ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិនរៀន/noun ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិនរៀន/noun ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិនហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/adj សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp
+តើ/prt តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt TN/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt Telecomsand/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt Telecomsand/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt Telecomsand/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt TN/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt Telecomsand/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt Telecomsand/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt Telecomsand/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt TN/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt Telecomsand/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt Telecomsand/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt Telecomsand/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt TN/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt Telecomsand/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt Telecomsand/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt Telecomsand/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj TN/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Telecoms/noun and/noun Networking/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv

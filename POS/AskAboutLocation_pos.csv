@@ -1,0 +1,177 @@
+Question,Intent
+តើ/prt ប្រាប់/verb ទី/noun តាំង/verb របស់/adp សាលា/noun ស៉ីអេឌីធី/noun បន្ដិច/adj មក/noun
+តើ/prt ប្រាប់/verb ទី/noun តាំង/verb របស់/adp សាលា/noun CADT/noun បន្ដិច/adj មក/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ី/noun អេឌីធី/noun នៅ/adp ណា/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ឯ/adp ណា/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ី/noun អេឌីធី/noun នៅ/adp ទីណា/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun នៅ/adp ណា/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun នៅ/verb ឯ/adp ណា/noun
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេ/noun ឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេ/noun ឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធីឋិត/noun នៅ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធី/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទី/noun តាំង/verb នៅ/verb ឯ/adp ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADTឋិត/noun នៅ/adp ទី/noun ណា/noun
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun
