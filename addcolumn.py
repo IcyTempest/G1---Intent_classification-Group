@@ -1,4 +1,4 @@
 import pandas as pd
-csv_input = pd.read_csv('ListParkingSpace.csv')
-csv_input['Intent'] = 'ListParkingSpace'
-csv_input.to_csv('ListParkingSpace.csv', index=False)
+csv_input = pd.read_csv('ListClub.csv')
+csv_input['Intent'] = 'ListClub'
+csv_input.to_csv('ListClub.csv', index=False)
