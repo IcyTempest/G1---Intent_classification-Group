@@ -1,4 +1,4 @@
-Question,Intents
+Question,Intent
 តើ/prt CADT/noun បាន/verb ប្រកាស់/verb ថា/conj មាន/verb ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
 តើ/prt CADT/noun បាន/verb ប្រកាស់/verb ថា/conj មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
 តើ/prt CADT/noun បាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition

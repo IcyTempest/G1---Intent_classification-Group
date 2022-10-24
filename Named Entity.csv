@@ -1,4 +1,4 @@
-Named Entity,NE Code ,Remarks
+Named Entity,NE Code,Remarks
 Room,ROOM,"F101, Jupyter"
 Building,BUILD,"Innovation Center, IDT building"
 Person,PER,"Lyheang, Andrew"
@@ -14,3 +14,4 @@ Announcement,ANN,"Back to school, "
 Location,LOC,"Prek Leap, Chroy Jongva, Lefthand of the road"
 Organization,ORG,"CADT, EZECOM, PIZZA COMPANY...."
 "Major,Skill",MAJOR,
+Job, housekeeper

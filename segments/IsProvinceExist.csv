@@ -1,4 +1,4 @@
-Questions,Intent
+Question,Intent
 មាន ខេត្ត កំពត ដែល ឬ អត់ ?,IsProvinceExist
 មាន ខេត្ត កំពត មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត តាកែវ ដែល ឬ អត់ ?,IsProvinceExist
@@ -47,7 +47,6 @@ Questions,Intent
 ពិត ជា មាន ខេត្ត កំពង់ ស្ពឺមែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត កំពង់ ធំ ដែល ឬ អត់ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត កំពង់ ធំ មែន ដែល ឬ ទេ ?,IsProvinceExist
-,IsProvinceExist
 មាន ខេត្ត ពោធិ៍ សាត់ ដែល ឬ អត់ ?,IsProvinceExist
 មាន ខេត្ត ពោធិ៍ សាត់មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត កោះ កុង ដែល ឬ អត់ ?,IsProvinceExist
@@ -102,7 +101,6 @@ Questions,Intent
 ពិត ជា មាន ខេត្ត ព្រះ សីហនុមែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត ព្រះ វិហារ ដែល ឬ អត់ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត ព្រះ វិហារ មែន ដែល ឬ ទេ ?,IsProvinceExist
-,IsProvinceExist
 មាន ខេត្ត ត្បូង ឃ្មុំ ដែល ឬ អត់ ?,IsProvinceExist
 មាន ខេត្ត ត្បូង ឃ្មុំ មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត ព្រៃ វែង ដែល ឬ អត់ ?,IsProvinceExist

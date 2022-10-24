@@ -1,4 +1,4 @@
-Questions,Intent
+Question,Intent
 ក្រសួង រៀប ចំ ដែន ដីនគរូបនីយកម្ម និង សំណង់ ពិត ជា មាន មែន អត់ នៅ ប្រទេស កម្ពុជា,IsMinistryExist
 ក្រសួង រៀប ចំ ដែន ដីនគរូបនីយកម្ម និង សំណង់ ពិត ជា មាន មែន អត់ នៅ ប្រទេស Cambodia,IsMinistryExist
 ក្រសួង រៀប ចំ ដែន ដីនគរូបនីយកម្ម និង សំណង់ ដែល ឬ អត់ នៅ ប្រទេស កម្ពុជា,IsMinistryExist
@@ -95,7 +95,6 @@ Questions,Intent
 នៅ មាន ក្រសួង បរិស្ថាន ពិត ជា មាន មែន អត់ នៅ ប្រទេស Cambodia,IsMinistryExist
 នៅ មាន ក្រសួង បរិស្ថាន ដែល ឬ អត់ នៅ ប្រទេស កម្ពុជា,IsMinistryExist
 នៅ មាន ក្រសួង បរិស្ថាន ដែល ឬ អត់ នៅ ប្រទេស Cambodia,IsMinistryExist
-,IsMinistryExist
 ក្រសួង ឧស្សាហកម្ម រ៉ែ និង ថាមពល ពិត ជា មាន មែន អត់ នៅ ប្រទេស កម្ពុជា,IsMinistryExist
 ក្រសួង ឧស្សាហកម្ម រ៉ែ និង ថាមពល ពិត ជា មាន មែន អត់ នៅ ប្រទេស Cambodia,IsMinistryExist
 ក្រសួង ឧស្សាហកម្ម រ៉ែ និង ថាមពល ដែល ឬ អត់ នៅ ប្រទេស កម្ពុជា,IsMinistryExist
@@ -192,7 +191,6 @@ Questions,Intent
 នៅ មាន ក្រសួង ពាណិជ្ជ កម្ម ពិត ជា មាន មែន អត់ នៅ ប្រទេស Cambodia,IsMinistryExist
 នៅ មាន ក្រសួង ពាណិជ្ជ កម្ម ដែល ឬ អត់ នៅ ប្រទេស កម្ពុជា,IsMinistryExist
 នៅ មាន ក្រសួង ពាណិជ្ជ កម្ម ដែល ឬ អត់ នៅ ប្រទេស Cambodia,IsMinistryExist
-,IsMinistryExist
 ក្រសួង កសិកម្ម រុក្ខា ប្រម៉ាញ់ និង នេសាទ ពិត ជា មាន មែន អត់ នៅ ប្រទេស កម្ពុជា,IsMinistryExist
 ក្រសួង កសិកម្ម រុក្ខា ប្រម៉ាញ់ និង នេសាទ ពិត ជា មាន មែន អត់ នៅ ប្រទេស Cambodia,IsMinistryExist
 ក្រសួង កសិកម្ម រុក្ខា ប្រម៉ាញ់ និង នេសាទ ដែល ឬ អត់ នៅ ប្រទេស កម្ពុជា,IsMinistryExist
@@ -273,7 +271,6 @@ Questions,Intent
 នៅ មាន ក្រសួង សេដ្ឋ កិច្ច និង ហិរញ្ញ វត្ថុ ពិត ជា មាន មែន អត់ នៅ ប្រទេស Cambodia,IsMinistryExist
 នៅ មាន ក្រសួង សេដ្ឋ កិច្ច និង ហិរញ្ញ វត្ថុ ដែល ឬ អត់ នៅ ប្រទេស កម្ពុជា,IsMinistryExist
 នៅ មាន ក្រសួង សេដ្ឋ កិច្ច និង ហិរញ្ញ វត្ថុ ដែល ឬ អត់ នៅ ប្រទេស Cambodia,IsMinistryExist
-,IsMinistryExist
 ក្រសួង ធនធាន ទឹក និង ឧត្តុ និយម ពិត ជា មាន មែន អត់ នៅ ប្រទេស កម្ពុជា,IsMinistryExist
 ក្រសួង ធនធាន ទឹក និង ឧត្តុ និយម ពិត ជា មាន មែន អត់ នៅ ប្រទេស Cambodia,IsMinistryExist
 ក្រសួង ធនធាន ទឹក និង ឧត្តុ និយម ដែល ឬ អត់ នៅ ប្រទេស កម្ពុជា,IsMinistryExist

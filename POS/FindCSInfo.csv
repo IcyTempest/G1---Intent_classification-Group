@@ -19,26 +19,26 @@ Question,Intent
 តើ/prt Computer/noun Science/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
 តើ/prt Computer/noun Science/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
 តើ/prt Computer/noun Science/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
 តើ/noun ស៉ីអេស/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
 តើ/noun ស៉ីអេស/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
 តើ/noun ស៉ីអេស/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
@@ -53,11 +53,11 @@ Question,Intent
 តើ/noun ស៉ីអេស/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
 តើ/noun ស៉ីអេស/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
 តើ/noun ស៉ីអេស/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/noun ស៉ីអេសហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
+តើ/noun ស៉ីអេស/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
 តើ/noun ស៉ីអេស/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
 តើ/noun ស៉ីអេស/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
 តើ/noun ស៉ីអេស/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
-តើ/noun ស៉ីអេសហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
+តើ/noun ស៉ីអេស/noun ហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
 តើ/noun ស៉ីអេស/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
 តើ/prt CS/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
 តើ/prt CS/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
@@ -68,16 +68,16 @@ Question,Intent
 តើ/prt CS/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
 តើ/prt CS/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
 តើ/prt CS/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
-តើ/prt CSរៀន/noun ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
+តើ/prt CS/noun រៀន/noun ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
 តើ/prt CS/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
-តើ/prt CSហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt CSហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
-តើ/prt CSហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt CSហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
-តើ/prt CSហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
-តើ/prt CSហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
-តើ/prt CSហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
-តើ/prt CSហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
+តើ/prt CS/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt CS/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
+តើ/prt CS/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt CS/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
+តើ/prt CS/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
+តើ/prt CS/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
+តើ/prt CS/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
+តើ/prt CS/noun ហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
 តើ/prt CS/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
@@ -99,32 +99,32 @@ Question,Intent
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេស/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេសរៀន/noun ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេសរៀន/noun ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
@@ -148,7 +148,7 @@ Question,Intent
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CS/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CS/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CS/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CSរៀន/noun ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CS/noun រៀន/noun ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CS/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CS/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CS/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
@@ -157,7 +157,7 @@ Question,Intent
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CS/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CS/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CS/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CSហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CS/noun ហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CS/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Computer/noun Science/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Computer/noun Science/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
@@ -179,26 +179,26 @@ Question,Intent
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Computer/noun Science/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Computer/noun Science/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Computer/noun Science/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
@@ -208,17 +208,17 @@ Question,Intent
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ី/noun អេសរៀន/noun ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ី/noun អេសរៀន/noun ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេសរៀន/noun ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេសហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេសហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេសហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេសហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេសហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេសហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេសហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេសហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេសហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេសហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun ហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CS/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CS/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CS/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
@@ -259,35 +259,35 @@ Question,Intent
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេស/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេស/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេស/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេស/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេសរៀន/noun ប៉ុន្មាន/adv ឆ្នាំ/noun,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេសរៀន/noun ប៉ុន្មាន/adv ឆមាស/noun,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេសរៀន/noun ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេស/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេសរៀន/noun ពី/adp អ្វី/noun ទៅ/adp,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេសហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេសហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
@@ -322,9 +322,9 @@ Question,Intent
 តើ/prt Computer/noun Science/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/prt Computer/noun Science/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/prt Computer/noun Science/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
 តើ/noun ស៉ីអេស/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/noun ស៉ីអេស/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/noun ស៉ីអេស/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
@@ -334,10 +334,10 @@ Question,Intent
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេស/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CS/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
@@ -346,9 +346,9 @@ Question,Intent
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Computer/noun Science/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Computer/noun Science/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Computer/noun Science/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
@@ -358,21 +358,21 @@ Question,Intent
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេស/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេស/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេស/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj CS/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj CS/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj CS/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
 តើ/prt Computer/noun Science/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/prt Computer/noun Science/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/prt Computer/noun Science/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
-តើ/prt វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
+តើ/prt វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
 តើ/noun ស៉ីអេស/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/noun ស៉ីអេស/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/noun ស៉ីអេស/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
@@ -382,10 +382,10 @@ Question,Intent
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
-តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេស/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
 តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj CS/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
@@ -394,9 +394,9 @@ Question,Intent
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Computer/noun Science/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Computer/noun Science/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Computer/noun Science/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
-តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៉ីអេស/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
@@ -406,12 +406,12 @@ Question,Intent
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj Computer/noun Science/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេស/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេស/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ី/noun អេស/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ស៉ីអេស/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj CS/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj CS/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindCSInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj CS/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindCSInfo
@@ -419,10 +419,10 @@ Question,Intent
 តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb Computer/noun Science/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb Computer/noun Science/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb Computer/noun Science/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb ស៉ីអេស/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb ស៉ីអេស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb ស៉ីអេស/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
@@ -435,13 +435,13 @@ Question,Intent
 តើ/prt រៀន/verb ចប់/verb Computer/noun Science/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt រៀន/verb ចប់/verb Computer/noun Science/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt រៀន/verb ចប់/verb Computer/noun Science/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt រៀន/verb ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt រៀន/verb ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt រៀន/verb ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt រៀន/verb ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt រៀន/verb ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt រៀន/verb ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt រៀន/verb ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt រៀន/verb ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើរៀន/noun ចប់/noun ស៉ីអេស/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើរៀន/noun ចប់/noun ស៉ីអេស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើរៀន/noun ចប់/noun ស៉ី/noun អេស/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើរៀន/noun ចប់/noun ស៉ីអេស/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើរៀន/noun ចប់/noun ស៉ីអេស/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt រៀន/verb ចប់/verb CS/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt រៀន/verb ចប់/verb CS/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
@@ -451,14 +451,14 @@ Question,Intent
 តើ/prt ពេល/noun ចប់/verb Computer/noun Science/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun ចប់/verb Computer/noun Science/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun ចប់/verb Computer/noun Science/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun ចប់/noun ស៉ីអេស/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun ចប់/noun ស៉ីអេស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun ចប់/verb ស៉ី/noun អេស/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun ចប់/noun ស៉ី/noun អេស/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun ចប់/verb ស៉ីអេស/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun ចប់/noun ស៉ីអេស/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun ចប់/verb CS/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun ចប់/verb CS/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun ចប់/verb CS/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
@@ -467,10 +467,10 @@ Question,Intent
 តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb Computer/noun Science/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb Computer/noun Science/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb Computer/noun Science/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb ស៉ីអេស/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb ស៉ីអេស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb ស៉ីអេស/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
@@ -483,13 +483,13 @@ Question,Intent
 តើ/prt រៀន/verb ចប់/verb Computer/noun Science/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt រៀន/verb ចប់/verb Computer/noun Science/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt រៀន/verb ចប់/verb Computer/noun Science/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt រៀន/verb ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt រៀន/verb ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt រៀន/verb ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt រៀន/verb ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt រៀន/verb ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt រៀន/verb ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt រៀន/verb ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt រៀន/verb ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើរៀន/noun ចប់/noun ស៉ីអេស/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើរៀន/noun ចប់/noun ស៉ីអេស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើរៀន/noun ចប់/noun ស៉ី/noun អេស/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើរៀន/noun ចប់/noun ស៉ីអេស/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើរៀន/noun ចប់/noun ស៉ីអេស/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt រៀន/verb ចប់/verb CS/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt រៀន/verb ចប់/verb CS/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
@@ -499,14 +499,14 @@ Question,Intent
 តើ/prt ពេល/noun ចប់/verb Computer/noun Science/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun ចប់/verb Computer/noun Science/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun ចប់/verb Computer/noun Science/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun ចប់/verb វិទ្យា/noun សាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun ចប់/verb វិទ្យាសាស្ត្រ/noun កុំព្យូទ័រ/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun ចប់/noun ស៉ីអេស/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun ចប់/noun ស៉ីអេស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun ចប់/verb ស៉ី/noun អេស/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
-តើ/prt ពេល/noun ចប់/noun ស៉ី/noun អេស/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun ចប់/verb ស៉ីអេស/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
+តើ/prt ពេល/noun ចប់/noun ស៉ីអេស/noun អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun ចប់/verb CS/noun អាច/verb ក្លាយ/verb ជា/verb អ្វី/noun ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun ចប់/verb CS/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
 តើ/prt ពេល/noun ចប់/verb CS/noun ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindCSInfo
