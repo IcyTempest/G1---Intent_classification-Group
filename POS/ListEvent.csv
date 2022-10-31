@@ -1,7 +1,7 @@
 Question,Intent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -41,12 +41,12 @@ Question,Intent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -65,7 +65,7 @@ Question,Intent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -81,12 +81,12 @@ Question,Intent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-គាត់/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+គាត់/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-គាត់/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+គាត់/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -121,12 +121,12 @@ Question,Intent
 គាត់/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -145,7 +145,7 @@ Question,Intent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -161,12 +161,12 @@ Question,Intent
 គាត់/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-នាង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+នាង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-នាង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+នាង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -201,12 +201,12 @@ Question,Intent
 នាង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -225,7 +225,7 @@ Question,Intent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -241,7 +241,7 @@ Question,Intent
 នាង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-ពួក/noun យើង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+ពួក/noun យើង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -281,12 +281,12 @@ Question,Intent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -305,7 +305,7 @@ Question,Intent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -321,12 +321,12 @@ Question,Intent
 ពួក/noun យើង/pron ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -361,12 +361,12 @@ Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/con
 Vitou/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -385,7 +385,7 @@ Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -401,7 +401,7 @@ Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ
 Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-វីទូ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+វីទូ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -441,12 +441,12 @@ Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ
 វីទូ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -465,8 +465,8 @@ Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -481,12 +481,12 @@ Vitou/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ
 វីទូ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -521,12 +521,12 @@ Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/c
 Rathana/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -545,7 +545,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -561,12 +561,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-រដ្ឋាណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+រដ្ឋាណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-រដ្ឋាណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+រដ្ឋាណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -601,12 +601,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 រដ្ឋាណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -625,7 +625,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -641,7 +641,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 រដ្ឋាណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង់ហាន់/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង់ហាន់/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -681,12 +681,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង់ហាន់/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -705,7 +705,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -721,7 +721,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង់ហាន់/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -761,12 +761,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -785,7 +785,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -801,12 +801,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun ញ៉ុង/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ឌីណាត/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ឌីណាត/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun ឌីណាត/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun ឌីណាត/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -841,12 +841,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -865,7 +865,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -881,7 +881,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun ឌីណាត/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ណី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ណី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -921,12 +921,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun ណី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -945,7 +945,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -961,12 +961,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun ណី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ប៊ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ប៊ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun ប៊ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun ប៊ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -1001,12 +1001,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -1025,7 +1025,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -1041,12 +1041,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun ប៊ន/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun លាច/verb ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun លាច/verb ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun លាច/verb ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun លាច/verb ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -1081,12 +1081,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun លាច/verb ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -1105,7 +1105,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -1121,7 +1121,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun លាច/verb ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun លីណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun លីណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -1161,12 +1161,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun លីណា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -1185,7 +1185,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -1201,12 +1201,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun លីណា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -1241,12 +1241,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -1265,7 +1265,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -1281,12 +1281,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun វន្ថា/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun វិគុណ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun វិគុណ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun វិគុណ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun វិគុណ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun វិគុណ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun វិគុណ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -1325,8 +1325,8 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -1345,7 +1345,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -1361,7 +1361,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun វិគុណ/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -1401,12 +1401,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -1425,7 +1425,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -1441,7 +1441,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun សាម/noun ឌី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun សារី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun សារី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
@@ -1481,12 +1481,12 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun សារី/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ថា/conj ព្រឹត្តិ/noun ការណ៍/noun នៅ/adp អាគារ/noun អាយឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Eventសាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
-កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
+កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp សាលា/noun សុីអេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
@@ -1505,7 +1505,7 @@ Rathana/noun ដែល/noun បាន/verb ចាប់/verb អារម្ម�
 កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj Event/noun សាលា/noun CADT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
-កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
+កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj សាលាសុី/noun អេឌីធី/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សារី/noun ដែល/noun បាន/verb ចាប់/verb អារម្មណ៏/noun ថា/conj ព្រឹត្តិ/noun ការណ៍/noun សាលា/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent

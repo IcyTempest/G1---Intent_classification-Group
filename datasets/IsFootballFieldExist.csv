@@ -1,5 +1,4 @@
 Question,Intent
-,IsFootballFieldExist
 នៅមានទីលានបាល់ទាត់នៃសាកលវិទ្យាល័យសុីអេដីឌីមែនឬទេ,IsFootballFieldExist
 នៅមានទីលានបាល់ទាត់នៃសាកលវិទ្យាល័យសុីអេដីឌីដែលឬទេ,IsFootballFieldExist
 នៅមានទីលានបាល់ទាត់នៃសាកលវិទ្យាល័យសុីអេដីឌីឬក៏អត់,IsFootballFieldExist

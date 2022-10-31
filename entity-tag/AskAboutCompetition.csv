@@ -1,6 +1,6 @@
 Question,Intent
 តើ CADT/B-ORG បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
-តើ CADT/B-ORG បាន បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT/B-ORG បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
 តើ CADT/B-ORG បាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
 តើ CADT/B-ORG បាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
 តើ CADT/B-ORG បាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
@@ -11,8 +11,8 @@ Question,Intent
 តើ CADT/B-ORG មាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
 តើ CADT/B-ORG មាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
 តើ CADT/B-ORG មាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
-តើ សាលា/B-ORG CADT/I-ORG បាន បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
-តើ សាលា/B-ORG CADT/I-ORG បាន បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG CADT/I-ORG បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG CADT/I-ORG បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
 តើ សាលា/B-ORG CADT/I-ORG បាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
 តើ សាលា/B-ORG CADT/I-ORG បាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
 តើ សាលា/B-ORG CADT/I-ORG បាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
@@ -23,8 +23,8 @@ Question,Intent
 តើ សាលា/B-ORG CADT/I-ORG មាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
 តើ សាលា/B-ORG CADT/I-ORG មាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
 តើ សាលា/B-ORG CADT/I-ORG មាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
-តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG បាន បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
-តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG បាន បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
 តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG បាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
 តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG បាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
 តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG បាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
@@ -35,8 +35,8 @@ Question,Intent
 តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
 តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
 តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
-តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG បាន បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
-តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG បាន បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
 តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG បាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
 តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG បាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
 តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG បាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition

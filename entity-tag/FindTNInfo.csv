@@ -1,24 +1,24 @@
 Question,Intent
-តើតេអិន/B-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
-តើតេអិន/B-MAJOR ជា អ្វី ?,FindTNInfo
-តើតេអិន/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
-តើតេអិន/B-MAJOR គឺ ជា អ្វី ?,FindTNInfo
-តើតេអិន/B-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ តេអិន/B-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ តេអិន/B-MAJOR ជា អ្វី ?,FindTNInfo
+តើ តេអិន/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ តេអិន/B-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ តេអិន/B-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
 តើ តេអិន/B-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
 តើ តេអិន/B-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
 តើ តេអិន/B-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
-តើតេអិន/B-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ តេអិន/B-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
 តើ តេអិន/B-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
-តើតេអិន/B-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
 តើ តេអិន/B-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
 តើ តេអិន/B-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
-តើតេអិន/B-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
-តើតេអិន/B-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
-តើតេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
-តើតេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
-តើតេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
-តើតេអិន/B-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
-តើតេអិន/B-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
 តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
 តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ជា អ្វី ?,FindTNInfo
 តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
@@ -79,10 +79,10 @@ Question,Intent
 តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
 តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
 តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថាតេអិន/B-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថាតេអិន/B-MAJOR ជា អ្វី ?,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថាតេអិន/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថាតេអិន/B-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR គឺ ជា អ្វី ?,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
@@ -239,9 +239,9 @@ Question,Intent
 តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
 តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
 តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថាតេអិន/B-MAJORសិក្សា អ្វី ខ្លះ,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថាតេអិន/B-MAJOR ជា អ្វី ?,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថាតេអិន/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
 តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR គឺ ជា អ្វី ?,FindTNInfo
 តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
 តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo

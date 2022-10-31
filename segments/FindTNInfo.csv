@@ -1,24 +1,24 @@
 Question,Intent
-តើតេអិន សិក្សា អ្វី ខ្លះ,FindTNInfo
-តើតេអិន ជា អ្វី ?,FindTNInfo
-តើតេអិន ជា អ្វី ទៅ ?,FindTNInfo
-តើតេអិន គឺ ជា អ្វី ?,FindTNInfo
-តើតេអិន សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ តេអិន សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ តេអិន ជា អ្វី ?,FindTNInfo
+តើ តេអិន ជា អ្វី ទៅ ?,FindTNInfo
+តើ តេអិន គឺ ជា អ្វី ?,FindTNInfo
+តើ តេអិន សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
 តើ តេអិន រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
 តើ តេអិន រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
 តើ តេអិន រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
-តើតេអិន គេ រៀន ពី អ្វី,FindTNInfo
+តើ តេអិន គេ រៀន ពី អ្វី,FindTNInfo
 តើ តេអិន រៀន ពី អ្វី ទៅ,FindTNInfo
-តើតេអិន ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ តេអិន ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
 តើ តេអិន ហ្នឹង ជា អ្វី ?,FindTNInfo
 តើ តេអិន ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
-តើតេអិន ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
-តើតេអិនហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
-តើតេអិន ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
-តើតេអិន ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
-តើតេអិន ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
-តើតេអិនហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
-តើតេអិន ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ តេអិន ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ តេអិន ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ តេអិន ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ តេអិន ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ តេអិន ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ តេអិន ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ តេអិន ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
 តើ ទូរគមនាគមន៍ និង បណ្តាញ សិក្សា អ្វី ខ្លះ,FindTNInfo
 តើ ទូរគមនាគមន៍ និង បណ្តាញ ជា អ្វី ?,FindTNInfo
 តើ ទូរគមនាគមន៍ និង បណ្តាញ ជា អ្វី ទៅ ?,FindTNInfo
@@ -50,55 +50,55 @@ Question,Intent
 តើ TN គេ រៀន ពី អ្វី,FindTNInfo
 តើ TNរៀន ពី អ្វី ទៅ,FindTNInfo
 តើ TN ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
-តើ TNហ្នឹង ជា អ្វី ?,FindTNInfo
-តើ TNហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
-តើ TNហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
-តើ TNហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
-តើ TNហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
-តើ TNហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
-តើ TNហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
-តើ TNហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ TN ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ TN ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ TN ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ TN ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ TN ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ TN ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ TN ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ TN ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
 តើ TN ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
-តើ Telecomsand Networking សិក្សា អ្វី ខ្លះ,FindTNInfo
-តើ Telecomsand Networking ជា អ្វី ?,FindTNInfo
-តើ Telecomsand Networking ជា អ្វី ទៅ ?,FindTNInfo
-តើ Telecomsand Networking គឺ ជា អ្វី ?,FindTNInfo
-តើ Telecomsand Networking សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
-តើ Telecomsand Networking រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
-តើ Telecomsand Networking រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
-តើ Telecomsand Networking រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
-តើ Telecomsand Networking គេ រៀន ពី អ្វី,FindTNInfo
-តើ Telecomsand Networking រៀន ពី អ្វី ទៅ,FindTNInfo
-តើ Telecomsand Networking ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
-តើ Telecomsand Networking ហ្នឹង ជា អ្វី ?,FindTNInfo
-តើ Telecomsand Networking ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
-តើ Telecomsand Networking ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
-តើ Telecomsand Networking ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
-តើ Telecomsand Networking ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
-តើ Telecomsand Networking ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
-តើ Telecomsand Networking ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
-តើ Telecomsand Networking ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
-តើ Telecomsand Networking ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថាតេអិន សិក្សា អ្វី ខ្លះ,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថាតេអិន ជា អ្វី ?,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថាតេអិន ជា អ្វី ទៅ ?,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថាតេអិន គឺ ជា អ្វី ?,FindTNInfo
+តើ Telecoms and Networking សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ Telecoms and Networking ជា អ្វី ?,FindTNInfo
+តើ Telecoms and Networking ជា អ្វី ទៅ ?,FindTNInfo
+តើ Telecoms and Networking គឺ ជា អ្វី ?,FindTNInfo
+តើ Telecoms and Networking សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ Telecoms and Networking រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ Telecoms and Networking រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ Telecoms and Networking រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ Telecoms and Networking គេ រៀន ពី អ្វី,FindTNInfo
+តើ Telecoms and Networking រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ Telecoms and Networking ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ Telecoms and Networking ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ Telecoms and Networking ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ Telecoms and Networking ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ Telecoms and Networking ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ Telecoms and Networking ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ Telecoms and Networking ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ Telecoms and Networking ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ Telecoms and Networking ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ Telecoms and Networking ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន ជា អ្វី ទៅ ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន គឺ ជា អ្វី ?,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា តេអិនរៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា តេអិនរៀន ប៉ុន្មាន ឆមាស,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា តេអិនរៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន គេ រៀន ពី អ្វី,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា តេអិនរៀន ពី អ្វី ទៅ,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា តេអិនហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា តេអិនហ្នឹង ជា អ្វី ?,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា តេអិនហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា តេអិនហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា តេអិនហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា តេអិនហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា តេអិនហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា តេអិនហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា តេអិនហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា តេអិនហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍ និង បណ្តាញ សិក្សា អ្វី ខ្លះ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍ និង បណ្តាញ ជា អ្វី ?,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍ និង បណ្តាញ ជា អ្វី ទៅ ?,FindTNInfo
@@ -137,7 +137,7 @@ Question,Intent
 តើ ប្រាប់ បាន ទេ ថា TN ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា TN ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា TN ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា TNហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា TN ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា Telecoms and Networking សិក្សា អ្វី ខ្លះ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា Telecoms and Networking ជា អ្វី ?,FindTNInfo
@@ -148,7 +148,7 @@ Question,Intent
 តើ ប្រាប់ បាន ទេ ថា Telecoms and Networking រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា Telecoms and Networking រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា Telecoms and Networking គេ រៀន ពី អ្វី,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា Telecomsand Networking រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms and Networking រៀន ពី អ្វី ទៅ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា Telecoms and Networking ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា Telecoms and Networking ហ្នឹង ជា អ្វី ?,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា Telecoms and Networking ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
@@ -164,21 +164,21 @@ Question,Intent
 តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន ជា អ្វី ទៅ ?,FindTNInfo
 តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន គឺ ជា អ្វី ?,FindTNInfo
 តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
-តើ ខ្ញុំ ចង់ ដឹង ថា តេអិនរៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
-តើ ខ្ញុំ ចង់ ដឹង ថា តេអិនរៀន ប៉ុន្មាន ឆមាស,FindTNInfo
-តើ ខ្ញុំ ចង់ ដឹង ថា តេអិនរៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
 តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន គេ រៀន ពី អ្វី,FindTNInfo
-តើ ខ្ញុំ ចង់ ដឹង ថា តេអិនរៀន ពី អ្វី ទៅ,FindTNInfo
-តើ ខ្ញុំ ចង់ ដឹង ថា តេអិនហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
-តើ ខ្ញុំ ចង់ ដឹង ថា តេអិនហ្នឹង ជា អ្វី ?,FindTNInfo
-តើ ខ្ញុំ ចង់ ដឹង ថា តេអិនហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
-តើ ខ្ញុំ ចង់ ដឹង ថា តេអិនហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
-តើ ខ្ញុំ ចង់ ដឹង ថា តេអិនហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
-តើ ខ្ញុំ ចង់ ដឹង ថា តេអិនហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
-តើ ខ្ញុំ ចង់ ដឹង ថា តេអិនហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
-តើ ខ្ញុំ ចង់ ដឹង ថា តេអិនហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
-តើ ខ្ញុំ ចង់ ដឹង ថា តេអិនហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
-តើ ខ្ញុំ ចង់ ដឹង ថា តេអិនហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
 តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍ និង បណ្តាញ សិក្សា អ្វី ខ្លះ,FindTNInfo
 តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍ និង បណ្តាញ ជា អ្វី ?,FindTNInfo
 តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍ និង បណ្តាញ ជា អ្វី ទៅ ?,FindTNInfo
@@ -239,26 +239,26 @@ Question,Intent
 តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms and Networking ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
 តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms and Networking ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
 តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms and Networking ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថាតេអិនសិក្សា អ្វី ខ្លះ,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថាតេអិន ជា អ្វី ?,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថាតេអិន ជា អ្វី ទៅ ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន ជា អ្វី ទៅ ?,FindTNInfo
 តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន គឺ ជា អ្វី ?,FindTNInfo
 តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិនរៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិនរៀន ប៉ុន្មាន ឆមាស,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិនរៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
 តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន គេ រៀន ពី អ្វី,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិនរៀន ពី អ្វី ទៅ,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិនហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិនហ្នឹង ជា អ្វី ?,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិនហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិនហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិនហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិនហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិនហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិនហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិនហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
-តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិនហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
 តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍ និង បណ្តាញ សិក្សា អ្វី ខ្លះ,FindTNInfo
 តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍ និង បណ្តាញ ជា អ្វី ?,FindTNInfo
 តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍ និង បណ្តាញ ជា អ្វី ទៅ ?,FindTNInfo
@@ -328,9 +328,9 @@ Question,Intent
 តើ TN បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
 តើ TN មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
 តើ TN មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
-តើ Telecomsand Networking បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
-តើ Telecomsand Networking មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
-តើ Telecomsand Networking មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ Telecoms and Networking បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ Telecoms and Networking មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ Telecoms and Networking មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
@@ -376,9 +376,9 @@ Question,Intent
 តើ TN បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
 តើ TN មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
 តើ TN មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
-តើ Telecomsand Networking បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
-តើ Telecomsand Networking មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
-តើ Telecomsand Networking មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ Telecoms and Networking បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ Telecoms and Networking មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ Telecoms and Networking មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
@@ -424,9 +424,9 @@ Question,Intent
 តើ TN បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
 តើ TN មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
 តើ TN មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
-តើ Telecomsand Networking បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
-តើ Telecomsand Networking មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
-តើ Telecomsand Networking មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ Telecoms and Networking បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ Telecoms and Networking មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ Telecoms and Networking មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
@@ -472,9 +472,9 @@ Question,Intent
 តើ TN បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
 តើ TN មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
 តើ TN មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
-តើ Telecomsand Networking បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
-តើ Telecomsand Networking មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
-តើ Telecomsand Networking មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ Telecoms and Networking បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ Telecoms and Networking មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ Telecoms and Networking មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា តេអិន មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo

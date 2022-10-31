@@ -35,12 +35,12 @@ Question,Intent
 តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែកB-MAJ  ស៊ីអេស/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែកB-MAJ  ស៊ីអេស/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែកB-MAJ  ស៊ីអេស/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
@@ -59,12 +59,12 @@ Question,Intent
 តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែកB-MAJ  ស៊ីអេស/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែកB-MAJ  ស៊ីអេស/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែកB-MAJ  ស៊ីអេស/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
@@ -83,12 +83,12 @@ Question,Intent
 តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុន ខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ ស៊ីអេស/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ ស៊ីអេស/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ ស៊ីអេស/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen

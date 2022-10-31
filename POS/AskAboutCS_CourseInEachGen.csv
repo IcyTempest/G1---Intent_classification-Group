@@ -35,12 +35,12 @@ Question,Intent
 តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun Computer/noun Science/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 3/num ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun Computer/noun Science/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 4/num ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun Computer/noun Science/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun នេះ/det ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun ក្រោយ/adp ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 1/num ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 2/num ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 3/num ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 4/num ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun នេះ/det ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun ក្រោយ/adp ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 1/num ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 2/num ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 3/num ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 4/num ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun នេះ/det ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun ស៊ីអេស/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun ក្រោយ/adp ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun ស៊ីអេស/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 1/num ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 6/num ផ្នែក/noun ស៊ីអេស/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 2/num ?/punct,AskAboutCS_CourseInEachGen
@@ -59,12 +59,12 @@ Question,Intent
 តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun Computer/noun Science/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 3/num ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun Computer/noun Science/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 4/num ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun Computer/noun Science/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun នេះ/det ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun ក្រោយ/adp ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 1/num ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 2/num ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 3/num ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 4/num ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun នេះ/det ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun ក្រោយ/adp ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 1/num ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 2/num ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 3/num ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 4/num ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun នេះ/det ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun ស៊ីអេស/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun ក្រោយ/adp ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun ស៊ីអេស/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 1/num ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 7/num ផ្នែក/noun ស៊ីអេស/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 2/num ?/punct,AskAboutCS_CourseInEachGen
@@ -83,12 +83,12 @@ Question,Intent
 តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun Computer/noun Science/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 3/num ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun Computer/noun Science/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 4/num ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun Computer/noun Science/noun រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun នេះ/det ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun ក្រោយ/adp ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 1/num ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 2/num ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 3/num ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 4/num ?/punct,AskAboutCS_CourseInEachGen
-តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun CS/noun រៀន/verb មុន/adv ខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun នេះ/det ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun ក្រោយ/adp ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 1/num ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 2/num ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 3/num ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 4/num ?/punct,AskAboutCS_CourseInEachGen
+តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun CS/noun រៀន/verb មុខវិជ្ជា/noun អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun នេះ/det ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun ស៊ីអេសរៀន/noun  រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun ក្រោយ/adp ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun ស៊ីអេសរៀន/noun  រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 1/num ?/punct,AskAboutCS_CourseInEachGen
 តើ/prt សិស្ស/noun Gen/noun 8/num ផ្នែក/noun ស៊ីអេសរៀន/noun  រៀន/verb មុខវិជ្ជា/adv អ្វី/noun ខ្លះ/adj នៅ/adp Term/noun 2/num ?/punct,AskAboutCS_CourseInEachGen
