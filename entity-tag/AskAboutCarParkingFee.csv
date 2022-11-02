@@ -174,41 +174,41 @@ Question,Intent
 អត់ ទោស នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 អត់ ទោស នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 អត់ ទោស នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 អត់ ទោស នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 អត់ ទោស នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 អត់ ទោស នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
@@ -454,41 +454,41 @@ Question,Intent
 សួរ មួយ មើល នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 សួរ មួយ មើល នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 សួរ មួយ មើល នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 សួរ មួយ មើល នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 សួរ មួយ មើល នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 សួរ មួយ មើល នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
@@ -734,41 +734,41 @@ Question,Intent
 មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
@@ -1014,41 +1014,41 @@ Question,Intent
 ដឹង ថា នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 ដឹង ថា នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 ដឹង ថា នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 ដឹង ថា នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 ដឹង ថា នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 ដឹង ថា នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
@@ -1294,41 +1294,41 @@ Question,Intent
 តើ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 តើ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 តើ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 តើ នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 តើ នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 តើ នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
@@ -1574,41 +1574,41 @@ Question,Intent
 អត់ ទោស នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 អត់ ទោស នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 អត់ ទោស នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+អត់ ទោស នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 អត់ ទោស នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 អត់ ទោស នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 អត់ ទោស នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
@@ -1854,41 +1854,41 @@ Question,Intent
 សួរ មួយ មើល នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 សួរ មួយ មើល នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 សួរ មួយ មើល នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 សួរ មួយ មើល នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 សួរ មួយ មើល នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 សួរ មួយ មើល នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
@@ -2134,41 +2134,41 @@ Question,Intent
 មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
@@ -2414,41 +2414,41 @@ Question,Intent
 ដឹង ថា នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 ដឹង ថា នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 ដឹង ថា នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 ដឹង ថា នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 ដឹង ថា នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 ដឹង ថា នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
@@ -2694,41 +2694,41 @@ Question,Intent
 តើ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 តើ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 តើ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ភ្ញៀវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បុគ្គលិក អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 តើ នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 តើ នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 តើ នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ភ្ញៀវ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
