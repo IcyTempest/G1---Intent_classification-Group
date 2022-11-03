@@ -239,7 +239,7 @@ Question,Intent
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindTNInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindTNInfo
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj Telecoms/noun and/noun Networking/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindTNInfo
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថាតេអិនសិក្សា/conj អ្វី/noun ខ្លះ/adj,FindTNInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindTNInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun ជា/verb អ្វី/noun ?/punct,FindTNInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindTNInfo
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj តេអិន/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindTNInfo

@@ -48,7 +48,7 @@ Question,Intent
 តើ TN/B-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
 តើ TN/B-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
 តើ TN/B-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
-តើ TN/B-MAJORរៀន ពី អ្វី ទៅ,FindTNInfo
+តើ TN/B-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
 តើ TN/B-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
 តើ TN/B-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
 តើ TN/B-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
@@ -128,7 +128,7 @@ Question,Intent
 តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
-តើ ប្រាប់ បាន ទេ ថា TN/B-MAJORរៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
 តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
