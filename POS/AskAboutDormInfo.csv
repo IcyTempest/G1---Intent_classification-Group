@@ -1,4 +1,4 @@
-Questions,Intent
+Question,Intent
 តើស៊ីអេឌីធី/noun មាន/verb កន្លែង/noun ស្នាក់/verb ឲ្យ/verb និស្សិត/noun អត់/prt ?/punct,AskAboutDormInfo
 តើស៊ីអេឌីធី/noun មាន/verb កន្លែង/noun ស្នាក់/verb ឲ្យ/verb និស្សិត/noun ដែរ/adv ទេ/prt ?/punct,AskAboutDormInfo
 តើស៊ីអេឌីធី/noun មាន/verb កន្លែង/noun ស្នាក់/verb សម្រាប់/adp និស្សិត/noun អត់/prt ?/punct,AskAboutDormInfo
