@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 មាន ព័ត៌មាន អត់ ថា និស្សិត គួរ រៀប ចំ ខ្លួន យ៉ាង ម៉េច ដើម្បី ដាក់ ពាក្យ ចុះ ឈ្មោះ ចូល រៀន នៅ សាលា/B-ORG CADT/I-ORG នឹង ?,AskAboutEnrollmentRequirement
 មាន ព័ត៌មាន អត់ ថា និស្សិត គួរ រៀប ចំ ខ្លួន យ៉ាង ម៉េច ដើម្បី ដាក់ ពាក្យ ចុះ ឈ្មោះ ចូល រៀន នៅ សាលា នេះ ?,AskAboutEnrollmentRequirement
 មាន ព័ត៌មាន អត់ ថា និស្សិត គួរ រៀប ចំ ខ្លួន យ៉ាង ម៉េច ដើម្បី ដាក់ ពាក្យ ចុះ ឈ្មោះ ចូល រៀន នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG ?,AskAboutEnrollmentRequirement

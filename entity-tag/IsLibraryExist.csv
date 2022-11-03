@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 អាគារ នេះ ជាន់ នេះ មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
 អាគារ នេះ ជាន់ នេះ មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
 អាគារ នេះ ជាន់ នេះ មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist

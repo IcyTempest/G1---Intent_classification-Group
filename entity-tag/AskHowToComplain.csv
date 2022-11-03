@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 លីតា/B-PER និង ដាណីត/B-PER ចង់ រីភាត់ ទៅ លើ អាគារ/B-BUILD អាយឌីធី/I-BUILD បាន យ៉ាង មិច ខ្លះ ?,AskHowToComplain
 លីតា/B-PER និង ដាណីត/B-PER ចង់ រីភាត់ ទៅ លើ អាគារ/B-BUILD អាយឌីធី/I-BUILD តាម រយះណា ខ្លះ ?,AskHowToComplain
 លីតា/B-PER និង ដាណីត/B-PER ចង់ រីភាត់ ទៅ សាលា បាន យ៉ាង មិច ខ្លះ ?,AskHowToComplain

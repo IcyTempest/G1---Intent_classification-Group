@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 នៅ/adp ណាហូវ/noun កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
 នៅ/adp ណាហូវ/noun កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/verb សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
 នៅ/adp ណាហូវ/noun កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation

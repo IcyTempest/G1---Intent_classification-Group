@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ/prt តេអិន/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindTNInfo
 តើ/prt តេអិន/noun ជា/verb អ្វី/noun ?/punct,FindTNInfo
 តើ/prt តេអិន/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindTNInfo

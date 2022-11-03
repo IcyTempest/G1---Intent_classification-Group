@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 នៅ មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
 នៅ មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
 នៅ មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist

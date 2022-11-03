@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
 តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
 តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents

@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun សាលាស៉ី/noun អេឌីធី/noun,AskAboutParkingPrice
 តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun សាលា/noun CADT/noun,AskAboutParkingPrice
 តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice

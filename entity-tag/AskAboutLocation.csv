@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ ប្រាប់ ទីតាំង របស់ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG បន្ដិច មក,AskAboutLocation
 តើ ប្រាប់ ទីតាំង របស់ សាលា/B-ORG CADT/I-ORG បន្ដិច មក,AskAboutLocation
 តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណា,AskAboutLocation

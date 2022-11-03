@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
 មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
 មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist

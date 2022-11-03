@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើស៊ីអេឌីធី/B-ORG មាន កន្លែង/B-BUILD ស្នាក់/I-BUILD ឲ្យ និស្សិត អត់ ?,AskAboutDormInfo
 តើស៊ីអេឌីធី/B-ORG មាន កន្លែង/B-BUILD ស្នាក់/I-BUILD ឲ្យ និស្សិត ដែរ ទេ ?,AskAboutDormInfo
 តើស៊ីអេឌីធី/B-ORG មាន កន្លែង/B-BUILD ស្នាក់/I-BUILD សម្រាប់ និស្សិត អត់ ?,AskAboutDormInfo

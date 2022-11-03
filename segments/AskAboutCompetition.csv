@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ CADT បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
 តើ CADT បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
 តើ CADT បាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition

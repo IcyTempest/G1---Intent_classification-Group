@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
 នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
 នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
