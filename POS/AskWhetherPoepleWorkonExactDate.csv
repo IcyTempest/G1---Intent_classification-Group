@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun អាទិត្យ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
 តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun អាទិត្យ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
 តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun អាទិត្យ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate

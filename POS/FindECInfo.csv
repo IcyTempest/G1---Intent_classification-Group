@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
 តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
 តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo

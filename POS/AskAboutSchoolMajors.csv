@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
 តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
 តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors

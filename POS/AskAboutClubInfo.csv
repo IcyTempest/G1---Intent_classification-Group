@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 អាច/verb រៀបរាប់/verb អំពី/adp ព័ត៌មាន/noun របស់/adp ក្លិប/noun កីឡា/noun អេឡិចត្រូនិច/noun ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun នេះ/det,AskAboutClubInfo
 អាច/verb រៀបរាប់/verb អំពី/adp ព័ត៌មាន/noun របស់/adp ក្លិប/noun កីឡា/noun អេឡិចត្រូនិច/noun ក្នុង/adp វិទ្យាល័យ/noun CADT/noun នេះ/det,AskAboutClubInfo
 អាច/verb រៀបរាប់/verb អំពី/adp ព័ត៌មាន/noun របស់/adp ក្លិប/noun កីឡា/noun អេឡិចត្រូនិច/noun ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun នេះ/det,AskAboutClubInfo

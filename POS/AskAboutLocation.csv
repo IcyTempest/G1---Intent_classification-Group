@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ/prt ប្រាប់/verb ទីតាំង/verb របស់/adp សាលា/noun ស៉ីអេឌីធី/noun បន្ដិច/adj មក/noun,AskAboutLocation
 តើ/prt ប្រាប់/verb ទីតាំង/verb របស់/adp សាលា/noun CADT/noun បន្ដិច/adj មក/noun,AskAboutLocation
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun នៅ/adp ណា/noun,AskAboutLocation

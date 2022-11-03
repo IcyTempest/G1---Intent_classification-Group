@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
 នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
 នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist

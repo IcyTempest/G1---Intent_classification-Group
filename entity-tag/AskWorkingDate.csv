@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 មាន ព័ត៌មាន អត់ ថា អ្នក ធ្វើ ការ នៅ សាលា/B-ORG CADT/I-ORG នេះ មក ធ្វើ ការ នៅ ថ្ងៃ ណា ?,AskWorkingDate
 មាន ព័ត៌មាន អត់ ថា អ្នក ធ្វើ ការ នៅ ទី នេះ មក ធ្វើ ការ នៅ ថ្ងៃ ណា ?,AskWorkingDate
 មាន ព័ត៌មាន អត់ ថា អ្នក ធ្វើ ការ នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG នេះ មក ធ្វើ ការ នៅ ថ្ងៃ ណា ?,AskWorkingDate

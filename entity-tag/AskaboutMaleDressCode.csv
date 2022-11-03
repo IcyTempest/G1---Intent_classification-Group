@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 អត់ ទោស នៅ សាលា/B-ORG CADT/I-ORG នឹង ក្មេង ប្រុស ចំណាយ អស់ ប៉ុន្មាន បែប ណា ដែរ ទើប សមរម្យ យ៉ាង ណា បាន ល្អ ទៅ ?,AskaboutMaleDressCode
 អត់ ទោស នៅ សាលា/B-ORG CADT/I-ORG នឹង ក្មេង ប្រុស គួរ ស្លៀក ពាក់ បែប ណា ដែរ ទើប សមរម្យ យ៉ាង ណា បាន ល្អ ទៅ ?,AskaboutMaleDressCode
 អត់ ទោស នៅ សាលា/B-ORG CADT/I-ORG នឹង ក្មេង ប្រុស ត្រូវ ពាក់ ខោ អាវ បែប ណា ដែរ ទើប សមរម្យ យ៉ាង ណា បាន ល្អ ទៅ ?,AskaboutMaleDressCode

@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 មាន ខេត្ត/B-GPE កំពត/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE កំពត/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE តាកែវ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
