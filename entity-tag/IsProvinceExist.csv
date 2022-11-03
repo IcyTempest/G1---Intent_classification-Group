@@ -8,11 +8,11 @@ Question,Intent
 មាន ខេត្ត/B-GPE បាត់ដំបង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 មាន ខេត្ត បាត់ ដំបង មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-មាន ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE កំពង់/I-GPE ឆ្នាំង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE កំពង់/I-GPE ឆ្នាំង/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-មាន ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE កំពង់/I-GPE ធំ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE កំពង់/I-GPE ធំ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កំពត/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
@@ -24,11 +24,11 @@ Question,Intent
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE បាត់ដំបង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត បាត់ ដំបង មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កំពង់/I-GPE ឆ្នាំង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កំពង់/I-GPE ឆ្នាំង/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កំពង់/I-GPE ធំ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កំពង់/I-GPE ធំ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE កំពត/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
@@ -40,65 +40,65 @@ Question,Intent
 ពិត ជា មាន ខេត្ត បាត់ ដំបង ដែល ឬ អត់ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត បាត់ ដំបង មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-ពិត ជា មាន ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE កំពង់/I-GPE ឆ្នាំង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE កំពង់/I-GPE ឆ្នាំង/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-ពិត ជា មាន ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE កំពង់/I-GPE ធំ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE កំពង់/I-GPE ធំ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-មាន ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-មាន ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPEមែនដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPE មែនដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE កែប/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-មាន ខេត្ត/B-GPE កែប/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត/B-GPE កែប/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE ក្រចេះ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE ក្រចេះ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-មាន ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត ឧត្តរ មាន ជ័យ ដែល ឬ អត់ ?,IsProvinceExist
 មាន ខេត្ត ឧត្តរ មាន ជ័យ មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE ប៉ៃលិន/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE ប៉ៃលិន/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-មាន ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE ព្រះ/I-GPE វិហារ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE ព្រះ/I-GPE វិហារ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPEមែនដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPE មែនដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កែប/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កែប/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE កែប/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ក្រចេះ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ក្រចេះ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ឧត្តរ មាន ជ័យ ដែល ឬ អត់ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ឧត្តរ មាន ជ័យ មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ប៉ៃលិន/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ប៉ៃលិន/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ព្រះ/I-GPE វិហារ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ព្រះ/I-GPE វិហារ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-ពិត ជា មាន ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-ពិត ជា មាន ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPEមែនដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPE មែនដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE កែប/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-ពិត ជា មាន ខេត្ត/B-GPE កែប/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត/B-GPE កែប/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE ក្រចេះ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE ក្រចេះ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-ពិត ជា មាន ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត ឧត្តរ មាន ជ័យ ដែល ឬ អត់ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត ឧត្តរ មាន ជ័យ មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE ប៉ៃលិន/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE ប៉ៃលិន/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
-ពិត ជា មាន ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPEមែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE ព្រះ/I-GPE វិហារ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE ព្រះ/I-GPE វិហារ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE ត្បូង/I-GPE ឃ្មុំ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
