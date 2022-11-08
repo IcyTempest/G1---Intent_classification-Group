@@ -2,3 +2,4 @@
 *.DS_STORE
 all_data/*
 oversampling/*
+.ipynb_checkpoints/
