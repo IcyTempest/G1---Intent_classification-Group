@@ -106,7 +106,7 @@ Question,Intent
 មាន ខេត្ត ព្រៃ វែង ដែល ឬ អត់ ?,IsProvinceExist
 មាន ខេត្ត ព្រៃ វែង មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្តរតនគីរី/B-GPE ដែល ឬ អត់ ?,IsProvinceExist
-មាន ខេត្ត រតនគីរីមែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត/B-GPE រតនគីរី/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត/B-GPE សៀមរាប/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 មាន ខេត្ត សៀម រាប មែន ដែល ឬ ទេ ?,IsProvinceExist
 មាន ខេត្ត ស្ទឹងត្រែង ដែល ឬ អត់ ?,IsProvinceExist
@@ -115,24 +115,24 @@ Question,Intent
 មាន ខេត្ត/B-GPE ស្វាយ/I-GPE រៀង/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ត្បូង/I-GPE ឃ្មុំ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ត្បូង/I-GPE ឃ្មុំ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
-ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ព្រៃ វែង ដែល ឬ អត់ ?,IsProvinceExist
-ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ព្រៃ វែង មែន ដែល ឬ ទេ ?,IsProvinceExist
-ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្តរតន គីរី ដែល ឬ អត់ ?,IsProvinceExist
-ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្តរតន គីរីមែន ដែល ឬ ទេ ?,IsProvinceExist
-ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត សៀម រាប ដែល ឬ អត់ ?,IsProvinceExist
-ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត សៀម រាប មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ព្រៃ/I-GPE វែង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ព្រៃ/I-GPE វែង/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្តរតន/B-GPE គីរី/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្តរតន/B-GPE គីរី/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE សៀម/I-GPE រាប/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE សៀម/I-GPE រាប/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ស្ទឹង/I-GPE ត្រែង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ស្ទឹង/I-GPE ត្រែង/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ស្វាយ/I-GPE រៀង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត/B-GPE ស្វាយ/I-GPE រៀង/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE ត្បូង/I-GPE ឃ្មុំ/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE ត្បូង/I-GPE ឃ្មុំ/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
-ពិត ជា មាន ខេត្ត ព្រៃ វែង ដែល ឬ អត់ ?,IsProvinceExist
-ពិត ជា មាន ខេត្ត ព្រៃ វែង មែន ដែល ឬ ទេ ?,IsProvinceExist
-ពិត ជា មាន ខេត្តរតន គីរី ដែល ឬ អត់ ?,IsProvinceExist
-ពិត ជា មាន ខេត្តរតន គីរីមែន ដែល ឬ ទេ ?,IsProvinceExist
-ពិត ជា មាន ខេត្ត សៀម រាប ដែល ឬ អត់ ?,IsProvinceExist
-ពិត ជា មាន ខេត្ត សៀម រាប មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត/B-GPE ព្រៃ/I-GPE វែង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត/B-GPE ព្រៃ/I-GPE វែង/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្តរតន/B-GPE គីរី/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្តរតន/B-GPE គីរី/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត/B-GPE សៀម/I-GPE រាប/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត/B-GPE សៀម/I-GPE រាប/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE ស្ទឹង/I-GPE ត្រែង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE ស្ទឹង/I-GPE ត្រែង/I-GPE មែន ដែល ឬ ទេ ?,IsProvinceExist
 ពិត ជា មាន ខេត្ត/B-GPE ស្វាយ/I-GPE រៀង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
