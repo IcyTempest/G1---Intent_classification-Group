@@ -1,0 +1,23 @@
+Named Entity,NE Code,Remarks
+Room,ROOM,"F101, Jupyter"
+Building,BUILD,"Innovation Center, IDT building"
+Person,PER,"Lyheang, Andrew"
+Floor,FLOOR,"Meeting, "
+Ordinal,ORD,"1st, 2nd, 3rd "
+Cardinal,CAR,"1000, 9999,1,0,2"
+Date,DATE,12th Jan 2000
+Time,TIME,10:00 PM
+Money,MONEY,"1000 $, ៛"
+Event,EVE,Code-C
+Announcement,ANN,"Back to school, "
+"Country, CIty",GPE,"Cambodia, Laos, Phnom Penh"
+Location,LOC,"Prek Leap, Chroy Jongva, Lefthand of the road"
+Organization,ORG,"CADT, EZECOM, PIZZA COMPANY...."
+"Major,Skill",MAJOR,
+job,JOB,
+verb,verb,
+noun,noun,
+obj,obj,
+adp,adp,
+det,det
+pron,pron
