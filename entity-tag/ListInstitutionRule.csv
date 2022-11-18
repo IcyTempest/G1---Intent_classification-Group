@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
 អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
 អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule

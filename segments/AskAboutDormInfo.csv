@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើស៊ីអេឌីធី មាន កន្លែង ស្នាក់ ឲ្យ និស្សិត អត់ ?,AskAboutDormInfo
 តើស៊ីអេឌីធី មាន កន្លែង ស្នាក់ ឲ្យ និស្សិត ដែរ ទេ ?,AskAboutDormInfo
 តើស៊ីអេឌីធី មាន កន្លែង ស្នាក់ សម្រាប់ និស្សិត អត់ ?,AskAboutDormInfo

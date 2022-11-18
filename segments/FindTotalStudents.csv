@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ វិទ្យាល័យ សុីអេឌុីធី សុខលាភ ដែល ដឹង ថា មាន និស្សិត ប៉ុន្មាន ?,FindTotalStudents
 តើ វិទ្យាល័យ សុីអេឌុីធី សុខលាភ ដែល ដឹង ថា មាន សិស្ស សរុប ប៉ុន្មាន ?,FindTotalStudents
 តើ វិទ្យាល័យ សុីអេឌុីធី សុខលាភ ដែល ដឹង ថា មាន student ប៉ុន្មាន ?,FindTotalStudents

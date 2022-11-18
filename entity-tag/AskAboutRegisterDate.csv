@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 ស្មាណា គេ ចាប់ បើក ទទួល ពាក្យ ចុះ ឈ្មោះ នៅ សាលា/B-ORG CADT/I-ORG នឹង ?,AskAboutRegisterDate
 ស្មាណា គេ ចាប់ បើក ទទួល ពាក្យ ចុះ ឈ្មោះ នៅ សាលា នេះ ?,AskAboutRegisterDate
 ស្មាណា គេ ចាប់ បើក ទទួល ពាក្យ ចុះ ឈ្មោះ នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG ?,AskAboutRegisterDate

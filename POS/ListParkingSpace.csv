@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ/prt នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ចំណត/noun នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
 តើ/prt នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ចំណត/noun នៅ/adp ណា/noun ?/punct,ListParkingSpace
 តើ/prt នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun មាន/verb កន្លែង/noun ទុក/verb ឡាន/noun នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace

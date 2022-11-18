@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើប្រាប់ទីតាំងរបស់សាលាស៉ីអេឌីធីបន្ដិចមក,AskAboutLocation
 តើប្រាប់ទីតាំងរបស់សាលាCADTបន្ដិចមក,AskAboutLocation
 តើខ្ញុំចង់ដឹងថាសាលាស៉ីអេឌីធីនៅណា,AskAboutLocation

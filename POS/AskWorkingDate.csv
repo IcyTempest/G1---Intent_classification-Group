@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp សាលា/noun CADT/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
 មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp ទី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
 មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate

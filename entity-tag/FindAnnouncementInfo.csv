@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 សូម ប្រាប់ សេក្ដី ប្រកាស ព័ត៌មាន អ្វី ខ្លះ របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,FindAnnouncementInfo
 សូម ប្រាប់ សេក្ដី ប្រកាស ព័ត៌មាន អ្វី ខ្លះ របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,FindAnnouncementInfo
 សូម ប្រាប់ សេក្ដី ប្រកាស ព័ត៌មាន អ្វី ខ្លះ របស់ វិទ្យាល័យ/B-ORG សុីអេដីឌី/I-ORG,FindAnnouncementInfo

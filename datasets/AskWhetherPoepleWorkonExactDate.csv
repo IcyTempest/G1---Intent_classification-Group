@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 មានព័ត៌មានអត់ថាថ្ងៃអាទិត្យក្រុមការងារក្នុងសាលានឹងធ្វើការអត់?,AskWhetherPoepleWorkonExactDate
 មានព័ត៌មានអត់ថាថ្ងៃអាទិត្យបុគ្កលិកនៅនឹងធ្វើការអត់?,AskWhetherPoepleWorkonExactDate
 មានព័ត៌មានអត់ថាថ្ងៃអាទិត្យគេធ្វើការអត់?,AskWhetherPoepleWorkonExactDate

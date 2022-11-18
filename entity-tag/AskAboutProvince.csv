@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 ខេត្ត/B-GPE កំពត/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
 ខេត្ត/B-GPE តាកែវ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
 ខេត្ត/B-GPE បន្ទាយ/I-GPE មាន/I-GPE ជ័យ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince

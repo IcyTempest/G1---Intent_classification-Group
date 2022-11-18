@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 អត់ ទោស នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD ជាន់ ក្រោម គេ បង្អស់ មាន ជណ្ដើរ exist ដែរ ឬ ទេ ?,IsExistDoorExit
 អត់ ទោស នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD ជាន់ ក្រោម គេ បង្អស់ មាន ជណ្ដើរ អាសន្ន ជណ្ដើរ គេច គ្រោះ ថ្នាក់ ដែរ ឬ ទេ ?,IsExistDoorExit
 អត់ ទោស នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD ជាន់ ក្រោម គេ បង្អស់ មាន ជណ្ដើរ ពេល មាន អគ្គិ ភ័យ ដែរ ឬ ទេ ?,IsExistDoorExit

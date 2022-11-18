@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 ឯណាទៅ/adj ដែល/noun ខ្ញុំ/pron អាច/verb រក/verb ឃើញ/verb បន្ទប់/noun Accountant/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun,AskAboutAccountantRoom
 ឯណាទៅ/adj ដែល/noun ខ្ញុំ/pron អាច/verb រក/verb ឃើញ/verb បន្ទប់/noun Accountant/noun ក្នុង/adp វិទ្យាល័យ/noun CADT/noun,AskAboutAccountantRoom 
 ឯណាទៅ/adj ដែល/noun ខ្ញុំ/pron អាច/verb រក/verb ឃើញ/verb បន្ទប់/noun Accountant/noun ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun,AskAboutAccountantRoom

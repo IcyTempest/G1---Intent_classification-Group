@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 រតនា/noun ដែល/noun ជា/verb មិត្ត/noun ខ្ញំុ/pron នេះ/det ក្នុង/adp ពិភព/noun លោក/noun ក្រោម/adp មេឃ/noun លើ/adp ដី/noun នេះ/det ត្រនិច/noun នាឡិការ/noun វិល/verb ដល់/adp ណា/noun ហើយ/conj ?/punct,FindCurrentTime
 រតនា/noun ដែល/noun ជា/verb មិត្ត/noun ខ្ញំុ/pron នេះ/det ក្នុង/adp ពិភព/noun លោក/noun ក្រោម/adp មេឃ/noun លើ/adp ដី/noun នេះ/det ម៉ោង/noun ប៉ុន្មាន/adv ហើយ/conj ?/punct,FindCurrentTime
 រតនា/noun ដែល/noun ជា/verb មិត្ត/noun ខ្ញំុ/pron នេះ/det ក្នុង/adp ពិភព/noun លោក/noun ក្រោម/adp មេឃ/noun លើ/adp ដី/noun នេះ/det ពេល/noun វេលា/noun ដើរ/verb ដល់/adp ណា/noun ហើយ/conj ?/punct,FindCurrentTime

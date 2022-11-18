@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើស៊ីអេឌីធី/noun មានschoolbus/verb ដឹក/verb សិស្ស/noun ដែរ/adv អត់/prt ?/punct,SchoolBusInfo
 តើស៊ីអេឌីធី/noun មានschoolbus/verb ដឹក/verb សិស្ស/noun ទេ/prt ?/punct,SchoolBusInfo
 តើស៊ីអេឌីធី/noun មានschoolbus/verb សម្រាប់/adp ដឹក/verb និស្សិត/noun ដែរ/adv អត់/prt ?/punct,SchoolBusInfo

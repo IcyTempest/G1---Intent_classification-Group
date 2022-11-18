@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 អ្នក/pron មឹង/verb អាច/verb ប្រាប់/verb Dara/noun ថា/conj ទៅ/adp អាគារណា/noun បាន/verb ដល់/adp ដេប៉ាទីម៉ង់ធនធានមនុស្ស/noun ដែរ/adv ?/punct,AskWhereHRRoomIs
 អ្នក/pron មឹង/verb អាច/verb ប្រាប់/verb Dara/noun ថា/conj ទៅ/adp អាគារណា/noun បាន/verb ដល់/adp ដេប៉ាទីម៉ង់ធនធានមនុស្ស/noun ទៅ/prt ?/punct,AskWhereHRRoomIs
 អ្នក/pron មឹង/verb អាច/verb ប្រាប់/verb Dara/noun ថា/conj ទៅ/adp អាគារណា/noun បាន/verb ដល់/adp បន្ទប់/noun HR/noun ដែរ/adv ?/punct,AskWhereHRRoomIs

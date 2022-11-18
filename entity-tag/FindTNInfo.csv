@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ តេអិន/B-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
 តើ តេអិន/B-MAJOR ជា អ្វី ?,FindTNInfo
 តើ តេអិន/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
