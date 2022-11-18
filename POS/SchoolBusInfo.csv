@@ -867,8 +867,8 @@ Question,Intent
 តើ/noun schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 តើ/noun schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 តើ/noun schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-តើ/noun schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-តើ/noun schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+តើ/noun schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+តើ/noun schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 តើ/noun schoolbus/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 តើ/noun schoolbus/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 តើ/noun schoolbus/noun របស់/adp CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
@@ -885,14 +885,14 @@ Question,Intent
 តើ/noun schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 តើ/noun schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 តើ/noun schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-តើ/noun schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-តើ/noun schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+តើ/noun schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+តើ/noun schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
@@ -909,14 +909,14 @@ Question,Intent
 តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+តើ/prt ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
@@ -933,14 +933,14 @@ Question,Intent
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
@@ -957,14 +957,14 @@ Question,Intent
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
@@ -981,14 +981,14 @@ Question,Intent
 ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp សាលា/noun សុីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថាschoolbus/conj របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
@@ -1005,14 +1005,14 @@ Question,Intent
 ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verbលុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verbលុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
@@ -1029,14 +1029,14 @@ Question,Intent
 ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ហើយ/conj ចុះ/verb schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
@@ -1053,14 +1053,14 @@ Question,Intent
 ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ហើយ/conj ចុះ/adv ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun យក/verbលុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun យក/verbលុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
@@ -1077,14 +1077,14 @@ Question,Intent
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp សាលា/noun សុីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថាschoolbus/conj របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
@@ -1101,14 +1101,14 @@ Question,Intent
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
@@ -1125,14 +1125,14 @@ Question,Intent
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj schoolbus/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp ស៊ីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
@@ -1149,5 +1149,5 @@ Question,Intent
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun គិត/verb លុយ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
 ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
-ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
-ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb/noun លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ឆមាស/noun ?/punct,SchoolBusInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ឡាន/noun ដឹក/verb សិស្ស/noun របស់/adp សាលា/noun សុីអេឌីធី/noun យក/verb លុយ/noun ពី/adp សិស្ស/noun ប៉ុន្មាន/adv ក្នុង/adp មួយ/num ខែ/noun ?/punct,SchoolBusInfo
