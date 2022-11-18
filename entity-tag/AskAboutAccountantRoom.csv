@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 ឯណាទៅ ដែល ខ្ញុំ អាច រក ឃើញ បន្ទប់/B-BUILD Accountant/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,AskAboutAccountantRoom
 ឯណាទៅ ដែល ខ្ញុំ អាច រក ឃើញ បន្ទប់/B-BUILD Accountant/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG,AskAboutAccountantRoom 
 ឯណាទៅ ដែល ខ្ញុំ អាច រក ឃើញ បន្ទប់/B-BUILD Accountant/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,AskAboutAccountantRoom

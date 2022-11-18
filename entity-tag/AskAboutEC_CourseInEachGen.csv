@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR ពាណិជ្ជ/I-MAJOR កម្ម/I-MAJOR អេឡិចត្រូនិក/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutEC_CourseInEachGen
 តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR ពាណិជ្ជ/I-MAJOR កម្ម/I-MAJOR អេឡិចត្រូនិក/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutEC_CourseInEachGen
 តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR ពាណិជ្ជ/I-MAJOR កម្ម/I-MAJOR អេឡិចត្រូនិក/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutEC_CourseInEachGen

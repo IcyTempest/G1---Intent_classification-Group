@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG សិស្ស ដែល ទើប ប្រឡង បាក់ឌុប ចប់ សិស្ស ថ្មី អត់,ScholarshipInfo
 ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG សិស្ស ដែល ទើប ប្រឡង បាក់ឌុប ចប់ សិស្ស ថ្មី ទេ,ScholarshipInfo
 ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG សិស្ស ដែល ទើប ប្រឡង បាក់ឌុប ចប់ សិស្ស ថ្មី ដែរ អត់,ScholarshipInfo

@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 អាច រៀបរាប់ អំពី ព័ត៌មាន របស់ Mediaclub ក្នុង សាលា/B-ORG រៀន/I-ORG សុី/I-ORG អេ/I-ORG ឌីធី/I-ORG នេះ,AskAboutClubInfo
 អាច រៀបរាប់ អំពី ព័ត៌មាន របស់ Mediaclub ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG នេះ,AskAboutClubInfo
 អាច រៀបរាប់ អំពី ព័ត៌មាន របស់ Mediaclub ក្នុង វិទ្យាល័យ/I-ORG សុីអេ/I-ORG ឌីធី/I-ORG នេះ,AskAboutClubInfo

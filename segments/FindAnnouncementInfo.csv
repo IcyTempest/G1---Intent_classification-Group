@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 សូម ប្រាប់ សេក្ដី ប្រកាស ព័ត៌មាន អ្វី ខ្លះ របស់ សាលារៀន សុីអេដីឌី,FindAnnouncementInfo
 សូម ប្រាប់ សេក្ដី ប្រកាស ព័ត៌មាន អ្វី ខ្លះ របស់ វិទ្យាល័យ CADT,FindAnnouncementInfo
 សូម ប្រាប់ សេក្ដី ប្រកាស ព័ត៌មាន អ្វី ខ្លះ របស់ វិទ្យាល័យ សុីអេដីឌី,FindAnnouncementInfo

@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 អត់/prt ទោស/noun នៅ/adp អាគារ/noun innovation/noun center/noun ជាន់/noun ក្រោម/adp គេ/pron បង្អស់/verb មាន/verb ជណ្ដើរ/noun exist/verb ដែរ/adv ឬ/conj ទេ/prt ?/punct,IsExistDoorExit
 អត់/prt ទោស/noun នៅ/adp អាគារ/noun innovation/noun center/noun ជាន់/noun ក្រោម/adp គេ/pron បង្អស់/verb មាន/verb ជណ្ដើរ/noun អាសន្ន/adj ជណ្ដើរ/noun គេច/verb គ្រោះ/noun ថ្នាក់/noun ដែរ/adv ឬ/conj ទេ/prt ?/punct,IsExistDoorExit
 អត់/prt ទោស/noun នៅ/adp អាគារ/noun innovation/noun center/noun ជាន់/noun ក្រោម/adp គេ/pron បង្អស់/verb មាន/verb ជណ្ដើរ/noun ពេល/noun មាន/verb អគ្គិ/noun ភ័យ/noun ដែរ/adv ឬ/conj ទេ/prt ?/punct,IsExistDoorExit

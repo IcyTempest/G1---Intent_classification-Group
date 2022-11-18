@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
 តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
 តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors

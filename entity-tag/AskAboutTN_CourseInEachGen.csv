@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR Telecoms/I-MAJOR &/I-MAJOR Networking/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutTN_CourseInEachGen
 តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR Telecoms/I-MAJOR &/I-MAJOR Networking/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutTN_CourseInEachGen
 តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR Telecoms/I-MAJOR &/I-MAJOR Networking/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutTN_CourseInEachGen

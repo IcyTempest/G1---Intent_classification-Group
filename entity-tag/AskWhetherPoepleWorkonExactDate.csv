@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE អាទិត្យ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
 តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE អាទិត្យ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
 តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE អាទិត្យ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate

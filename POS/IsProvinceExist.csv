@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 មាន/verb ខេត្ត/noun កំពត/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
 មាន/verb ខេត្ត/noun កំពត/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
 មាន/verb ខេត្ត/noun តាកែវ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist

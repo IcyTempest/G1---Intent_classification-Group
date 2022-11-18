@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 នៅមានអាហាររដ្ឋានរបស់សាកលវិទ្យាល័យសុីអេដីឌីឬក៏អត់,IsCanteenExist
 នៅមានអាហាររដ្ឋានរបស់សាកលវិទ្យាល័យសុីអេដីឌីដែលឬទេ,IsCanteenExist
 នៅមានអាហាររដ្ឋានរបស់វិទ្យាល័យCADTឬក៏អត់,IsCanteenExist

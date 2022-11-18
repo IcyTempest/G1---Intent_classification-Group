@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
 កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
 កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent

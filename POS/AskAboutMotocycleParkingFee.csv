@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 អត់/prt ទោស/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun ភ្ញៀវ/noun ចំណាយ/verb អស់/adj ប៉ុន្មាន/adv សំរាប់/adp ការ/noun ផ្ញើ/verb ម៉ូតូ/noun ?/punct,AskAboutMotocycleParkingFee
 អត់/prt ទោស/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun ភ្ញៀវ/noun បង់/verb ប្រាប់/verb ចំនួន/noun ប៉ុន្មាន/adv សំរាប់/adp ការ/noun ផ្ញើ/verb ម៉ូតូ/noun ?/punct,AskAboutMotocycleParkingFee
 អត់/prt ទោស/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun ភ្ញៀវ/noun ផាក/noun ១/num ដង/noun ប៉ុន្មាន/adv សំរាប់/adp ការ/noun ផ្ញើ/verb ម៉ូតូ/noun ?/punct,AskAboutMotocycleParkingFee

@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 មានខេត្តកំពតដែលឬអត់?,IsProvinceExist
 មានខេត្តកំពតមែនដែលឬទេ?,IsProvinceExist
 មានខេត្តតាកែវដែលឬអត់?,IsProvinceExist

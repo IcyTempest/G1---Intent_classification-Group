@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
 សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
 សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT

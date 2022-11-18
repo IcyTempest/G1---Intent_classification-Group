@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun សិក្សា/verb របស់/adp សាលា/noun ស៉ីអេឌីធី/noun,AskAboutAcademicFee
 តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun សិក្សា/verb របស់/adp សាលា/noun CADT/noun,AskAboutAcademicFee
 តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ពី/adp តម្លៃ/noun ពី/adp តម្លៃ/noun សិក្សា/verb របស់/adp សាលា/noun ស៉ីអេឌីធី/noun,AskAboutAcademicFee

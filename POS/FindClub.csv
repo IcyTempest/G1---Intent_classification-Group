@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 ខ្ញុំ/pron ចង់/verb ស្វែង/verb រក/verb ក្លិប/noun មួយ/adj ឈ្មោះ/noun ថា/conj Mediaclub/noun នៃ/adp សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun,FindClub
 ខ្ញុំ/pron ចង់/verb ស្វែង/verb រក/verb ក្លិប/noun មួយ/adj ឈ្មោះ/noun ថា/conj Mediaclub/noun នៃ/adp វិទ្យាល័យ/noun CADT/noun,FindClub
 ខ្ញុំ/pron ចង់/verb ស្វែង/verb រក/verb ក្លិប/noun មួយ/adj ឈ្មោះ/noun ថា/conj Mediaclub/noun នៃ/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun,FindClub

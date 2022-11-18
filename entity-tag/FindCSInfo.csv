@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ Computer/B-MAJOR Science/I-MAJOR សិក្សា អ្វី ខ្លះ,FindCSInfo
 តើ Computer/B-MAJOR Science/I-MAJOR ជា អ្វី ?,FindCSInfo
 តើ Computer/B-MAJOR Science/I-MAJOR ជា អ្វី ទៅ ?,FindCSInfo

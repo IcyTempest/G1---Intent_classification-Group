@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun នៅ/adp អាគារ/noun IDT/noun យើង/pron មាន/verb អ្វី/noun ខ្លះ/adj អត់/prt ?/punct,ListEvent
 កង/noun សាវ៉ន/noun ដែល/noun បាន/verb ដឹង/verb អត់/prt ទៅ/verb លើ/adp Event/noun សាលា/noun មាន/verb ប៉ុន្មាន/adv ខ្លះ/adj ?/punct,ListEvent

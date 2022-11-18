@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 អត់ទោសនៅអាគារinnovation centerជាន់ក្រោមគេបង្អស់មានជណ្ដើរexistដែរឬទេ?,IsExistDoorExit
 អត់ទោសនៅអាគារinnovation centerជាន់ក្រោមគេបង្អស់មានជណ្ដើរអាសន្នជណ្ដើរគេចគ្រោះថ្នាក់ដែរឬទេ?,IsExistDoorExit
 អត់ទោសនៅអាគារinnovation centerជាន់ក្រោមគេបង្អស់មានជណ្ដើរពេលមានអគ្គិភ័យដែរឬទេ?,IsExistDoorExit

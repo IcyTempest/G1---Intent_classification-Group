@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb ទេ/prt ថា/conj ឯង/pron មាន/verb ព្រះជន្ម/noun ប៉ុន្មាន/adv ហេីយ/noun ?/punct,AskAboutAge
 តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb ទេ/prt ថា/conj ឯង/pron មាន/verb ព្រះជន្ម/noun ប៉ុន្មាន/adv ឆ្នាំ/noun ហេីយ/noun ?/punct,AskAboutAge
 តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb ទេ/prt ថា/conj ឯង/pron មាន/verb អាយុ/noun ប៉ុន្មាន/adv ហេីយ/noun ?/punct,AskAboutAge

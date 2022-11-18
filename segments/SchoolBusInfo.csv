@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើស៊ីអេឌីធីមានschoolbus ដឹក សិស្ស ដែរ អត់ ?,SchoolbusInfo
 តើស៊ីអេឌីធីមានschoolbus ដឹក សិស្ស ទេ ?,SchoolbusInfo
 តើស៊ីអេឌីធីមានschoolbus សម្រាប់ ដឹក និស្សិត ដែរ អត់ ?,SchoolbusInfo

@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើ/prt Computer/noun Science/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindCSInfo
 តើ/prt Computer/noun Science/noun ជា/verb អ្វី/noun ?/punct,FindCSInfo
 តើ/prt Computer/noun Science/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindCSInfo

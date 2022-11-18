@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 នៅ មាន អាហាររដ្ឋាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsCanteenExist
 នៅ មាន អាហាររដ្ឋាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsCanteenExist
 នៅ មាន អាហាររដ្ឋាន របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsCanteenExist
