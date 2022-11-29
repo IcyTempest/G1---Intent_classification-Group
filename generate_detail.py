@@ -4,9 +4,7 @@ import os
 def count_into(dictionary: dict, subject: str) -> dict:
     if not subject in dictionary:
         dictionary[subject] = 0
-
     dictionary[subject] += 1
-
     return dictionary
 
 
